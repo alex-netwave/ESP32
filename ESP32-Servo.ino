@@ -1,3 +1,4 @@
+//Edited version by Alex, Alex's source: https://github.com/madhephaestus/ESP32Servo/blob/master/examples/Sweep/Sweep.ino
 #include <ESP32Servo.h>
  
 Servo myservo;  // create servo object to control a servo
